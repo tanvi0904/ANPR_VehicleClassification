@@ -17,7 +17,6 @@ Step 3: Update the path of the test images in the output_final.ipynb file
 Step 4: Run the output_final.ipynb file
 </pre>
 
-## Execution Instructions for VehicleClassification_Keras
 
 ## Execution Instructions for VehicleClassification_Pytorch
 
